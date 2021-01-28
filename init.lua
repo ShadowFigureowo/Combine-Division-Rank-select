@@ -13,8 +13,7 @@ function ENT:Initialize()
 	self:SetUseType( SIMPLE_USE )
 	self:DropToFloor()
 	self:SetPersistent( false )
-	self:SetMaxYawSpeed( 0 )
-	self:SetAnim()
+
 end
  
 function ENT:OnTakeDamage()

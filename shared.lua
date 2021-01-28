@@ -1,7 +1,7 @@
 ENT.Base 			= "base_ai"
 ENT.Type 			= "ai"
 ENT.PrintName		= "CP NPC"
-ENT.Author			= "shadowfigure"
+ENT.Author			= "Shadowfigure#5702, ZIKE#7537"
 ENT.Purpose			= "Ranks and divisions for cp characters"
 ENT.Instructions	= "Press E"
 ENT.Category 		= "Nexus"
@@ -9,7 +9,6 @@ ENT.Category 		= "Nexus"
 ENT.AutomaticFrameAdvance = true
 ENT.Spawnable = true
 ENT.AdminOnly = true
-ENT.bNoPersist = true
 
 CP_Ranks = {}
 CP_Divisions = {}
